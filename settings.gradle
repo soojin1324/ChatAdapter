@@ -1,0 +1,2 @@
+rootProject.name = "RecyclerViewStudy"
+include ':app'
